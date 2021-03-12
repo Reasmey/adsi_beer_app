@@ -107,7 +107,7 @@ def save_sets(X_train=None, y_train=None, X_val=None, y_val=None, X_test=None, y
     import numpy as np
     # fix system path
     import sys
-    sys.path.append("/home/jovyan/work")
+    #sys.path.append("/home/jovyan/work")
 
     if X_train is not None:
       np.save(f'{path}X_train', X_train)
