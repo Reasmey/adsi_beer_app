@@ -1,0 +1,105 @@
+,beer_style,precision,recall,f1,support
+0,Altbier,0.0,0.0,0.0,1574
+1,American Adjunct Lager,0.0,0.0,0.0,6047
+2,American Amber / Red Ale,0.0,0.0,0.0,9298
+3,American Amber / Red Lager,0.0,0.0,0.0,1851
+4,American Barleywine,0.0,0.0,0.0,5439
+5,American Black Ale,0.0,0.0,0.0,2336
+6,American Blonde Ale,0.0,0.0,0.0,2579
+7,American Brown Ale,0.0,0.0,0.0,5026
+8,American Dark Wheat Ale,0.0,0.0,0.0,284
+9,American Double / Imperial IPA,0.0,0.0,0.0,17309
+10,American Double / Imperial Pilsner,0.0,0.0,0.0,1150
+11,American Double / Imperial Stout,0.0,0.0,0.0,10117
+12,American IPA,0.07380247069204589,1.0,0.13746005006764708,23419
+13,American Malt Liquor,0.0,0.0,0.0,763
+14,American Pale Ale (APA),0.0,0.0,0.0,12617
+15,American Pale Lager,0.0,0.0,0.0,1777
+16,American Pale Wheat Ale,0.0,0.0,0.0,4979
+17,American Porter,0.0,0.0,0.0,10009
+18,American Stout,0.0,0.0,0.0,4930
+19,American Strong Ale,0.0,0.0,0.0,6375
+20,American Wild Ale,0.0,0.0,0.0,3495
+21,Baltic Porter,0.0,0.0,0.0,2362
+22,Belgian Dark Ale,0.0,0.0,0.0,1277
+23,Belgian IPA,0.0,0.0,0.0,2419
+24,Belgian Pale Ale,0.0,0.0,0.0,3932
+25,Belgian Strong Dark Ale,0.0,0.0,0.0,7576
+26,Belgian Strong Pale Ale,0.0,0.0,0.0,6203
+27,Berliner Weissbier,0.0,0.0,0.0,709
+28,Bière de Champagne / Bière Brut,0.0,0.0,0.0,224
+29,Bière de Garde,0.0,0.0,0.0,1330
+30,Black & Tan,0.0,0.0,0.0,487
+31,Bock,0.0,0.0,0.0,2315
+32,Braggot,0.0,0.0,0.0,218
+33,California Common / Steam Beer,0.0,0.0,0.0,807
+34,Chile Beer,0.0,0.0,0.0,460
+35,Cream Ale,0.0,0.0,0.0,1017
+36,Czech Pilsener,0.0,0.0,0.0,2557
+37,Doppelbock,0.0,0.0,0.0,4391
+38,Dortmunder / Export Lager,0.0,0.0,0.0,971
+39,Dubbel,0.0,0.0,0.0,4048
+40,Dunkelweizen,0.0,0.0,0.0,1411
+41,Eisbock,0.0,0.0,0.0,553
+42,English Barleywine,0.0,0.0,0.0,2730
+43,English Bitter,0.0,0.0,0.0,1743
+44,English Brown Ale,0.0,0.0,0.0,3903
+45,English Dark Mild Ale,0.0,0.0,0.0,499
+46,English India Pale Ale (IPA),0.0,0.0,0.0,3206
+47,English Pale Ale,0.0,0.0,0.0,4680
+48,English Pale Mild Ale,0.0,0.0,0.0,134
+49,English Porter,0.0,0.0,0.0,2269
+50,English Stout,0.0,0.0,0.0,614
+51,English Strong Ale,0.0,0.0,0.0,983
+52,Euro Dark Lager,0.0,0.0,0.0,893
+53,Euro Pale Lager,0.0,0.0,0.0,3688
+54,Euro Strong Lager,0.0,0.0,0.0,543
+55,Extra Special / Strong Bitter (ESB),0.0,0.0,0.0,3476
+56,Faro,0.0,0.0,0.0,102
+57,Flanders Oud Bruin,0.0,0.0,0.0,959
+58,Flanders Red Ale,0.0,0.0,0.0,1307
+59,Foreign / Export Stout,0.0,0.0,0.0,1145
+60,Fruit / Vegetable Beer,0.0,0.0,0.0,6713
+61,German Pilsener,0.0,0.0,0.0,4333
+62,Gose,0.0,0.0,0.0,129
+63,Gueuze,0.0,0.0,0.0,1195
+64,Happoshu,0.0,0.0,0.0,50
+65,Hefeweizen,0.0,0.0,0.0,5572
+66,Herbed / Spiced Beer,0.0,0.0,0.0,2071
+67,Irish Dry Stout,0.0,0.0,0.0,2507
+68,Irish Red Ale,0.0,0.0,0.0,1546
+69,Japanese Rice Lager,0.0,0.0,0.0,290
+70,Keller Bier / Zwickel Bier,0.0,0.0,0.0,514
+71,Kristalweizen,0.0,0.0,0.0,459
+72,Kvass,0.0,0.0,0.0,70
+73,Kölsch,0.0,0.0,0.0,1686
+74,Lambic - Fruit,0.0,0.0,0.0,2122
+75,Lambic - Unblended,0.0,0.0,0.0,220
+76,Light Lager,0.0,0.0,0.0,2794
+77,Low Alcohol Beer,0.0,0.0,0.0,228
+78,Maibock / Helles Bock,0.0,0.0,0.0,2104
+79,Milk / Sweet Stout,0.0,0.0,0.0,2638
+80,Munich Dunkel Lager,0.0,0.0,0.0,1581
+81,Munich Helles Lager,0.0,0.0,0.0,1599
+82,Märzen / Oktoberfest,0.0,0.0,0.0,4706
+83,Oatmeal Stout,0.0,0.0,0.0,3600
+84,Old Ale,0.0,0.0,0.0,2998
+85,Pumpkin Ale,0.0,0.0,0.0,3019
+86,Quadrupel (Quad),0.0,0.0,0.0,3716
+87,Rauchbier,0.0,0.0,0.0,804
+88,Roggenbier,0.0,0.0,0.0,109
+89,Russian Imperial Stout,0.0,0.0,0.0,10734
+90,Rye Beer,0.0,0.0,0.0,2057
+91,Sahti,0.0,0.0,0.0,208
+92,Saison / Farmhouse Ale,0.0,0.0,0.0,6320
+93,Schwarzbier,0.0,0.0,0.0,1936
+94,Scotch Ale / Wee Heavy,0.0,0.0,0.0,3479
+95,Scottish Ale,0.0,0.0,0.0,1825
+96,Scottish Gruit / Ancient Herbed Ale,0.0,0.0,0.0,558
+97,Smoked Beer,0.0,0.0,0.0,595
+98,Tripel,0.0,0.0,0.0,6063
+99,Vienna Lager,0.0,0.0,0.0,1825
+100,Weizenbock,0.0,0.0,0.0,1900
+101,Wheatwine,0.0,0.0,0.0,769
+102,Winter Warmer,0.0,0.0,0.0,4140
+103,Witbier,0.0,0.0,0.0,6023
